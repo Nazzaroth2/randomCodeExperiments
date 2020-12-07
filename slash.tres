@@ -4,5 +4,4 @@
 
 [resource]
 script = ExtResource( 1 )
-damageValue = 10
-skillName = "\"Slash\""
+damageValue = 0

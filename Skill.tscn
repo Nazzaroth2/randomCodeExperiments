@@ -1,0 +1,411 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Skill.gd" type="Script" id=1]
+[ext_resource path="res://Slash.gd" type="Script" id=2]
+[ext_resource path="res://Kick.gd" type="Script" id=3]
+
+[node name="Skill" type="Node"]
+script = ExtResource( 1 )
+
+[node name="Slash" type="Node" parent="."]
+script = ExtResource( 2 )
+
+[node name="Kick" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick2" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick3" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick4" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick5" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick6" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick7" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick8" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick9" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick10" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick11" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick12" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick13" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick14" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick15" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick16" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick17" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick18" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick19" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick20" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick21" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick22" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick23" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick24" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick25" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick26" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick27" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick28" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick29" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick30" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick31" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick32" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick33" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick34" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick35" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick36" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick37" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick38" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick39" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick40" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick41" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick42" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick43" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick44" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick45" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick46" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick47" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick48" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick49" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick50" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick51" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick52" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick53" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick54" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick55" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick56" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick57" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick58" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick59" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick60" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick61" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick62" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick63" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick64" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick65" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick66" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick67" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick68" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick69" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick70" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick71" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick72" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick73" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick74" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick75" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick76" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick77" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick78" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick79" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick80" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick81" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick82" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick83" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick84" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick85" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick86" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick87" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick88" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick89" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick90" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick91" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick92" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick93" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick94" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick95" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick96" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick97" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick98" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick99" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
+
+[node name="Kick100" type="Node" parent="."]
+script = ExtResource( 3 )
+damageValue = 20
