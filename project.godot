@@ -10,24 +10,12 @@ config_version=4
 
 _global_script_classes=[ {
 "base": "Resource",
-"class": "CharacterClass",
+"class": "char_class",
 "language": "GDScript",
-"path": "res://klasse.gd"
-}, {
-"base": "Resource",
-"class": "Skill",
-"language": "GDScript",
-"path": "res://Skill.gd"
-}, {
-"base": "Skill",
-"class": "Slash",
-"language": "GDScript",
-"path": "res://Slash.gd"
+"path": "res://char_classes/char_class.gd"
 } ]
 _global_script_class_icons={
-"CharacterClass": "",
-"Skill": "",
-"Slash": ""
+"char_class": ""
 }
 
 [application]

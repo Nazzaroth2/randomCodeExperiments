@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://char_classes/char_class.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+name = "Mark"
+classType = "warrior"
+classSkills = {
+
+}
+strenght = "9001"
+intelligence = 5

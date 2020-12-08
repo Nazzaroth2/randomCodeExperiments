@@ -13,17 +13,29 @@ var skills:Dictionary
 
 var exampleSkill
 
+var initPlayer01
+var initPlayer02
+
 
 func _init():
-	var klasse = load("res://warrior.tres")
-	self.hp_max = klasse.hp_max
-	self.skills = klasse.skills
+	var warriorClass = load("res://char_classes/warrior.tres")
+	var mageClass = load("res://char_classes/mage.tres")
+	
+	initPlayer01 = warriorClass.duplicate()
+	initPlayer01.name = "Mark"
+	initPlayer01.strenght = "9001"
+	
+	
+#	initPlayer02 = mageClass.duplicate()
 
 func _ready():
-#	dictionaryRescources["Slash"].damage()
-	for skill in skillScripts:
-		exampleSkill = skill.new()
-		print(exampleSkill.damageValue)
+	
+	
+	print(initPlayer01.name)
+	print(initPlayer01.strenght)
+	print(initPlayer01.intelligence)
+	
+	ResourceSaver.save("res://char_classes/player01.tres", initPlayer01)
 
 
 
