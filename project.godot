@@ -14,14 +14,20 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://klasse.gd"
 }, {
-"base": "Node",
+"base": "Resource",
 "class": "Skill",
 "language": "GDScript",
 "path": "res://Skill.gd"
+}, {
+"base": "Skill",
+"class": "Slash",
+"language": "GDScript",
+"path": "res://Slash.gd"
 } ]
 _global_script_class_icons={
 "CharacterClass": "",
-"Skill": ""
+"Skill": "",
+"Slash": ""
 }
 
 [application]
