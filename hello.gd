@@ -35,7 +35,17 @@ func _ready():
 	print(initPlayer01.strenght)
 	print(initPlayer01.intelligence)
 	
-	ResourceSaver.save("res://char_classes/player01.tres", initPlayer01)
+#	ResourceSaver.save("res://char_classes/player01.tres", initPlayer01)
+
+	var numb1 = 10
+	var numb2 = 5
+	var numb3 = -5
+	
+	numb1 += numb2
+	print(numb1)
+	numb1 += numb3
+	print(numb1)
+	
 
 
 
